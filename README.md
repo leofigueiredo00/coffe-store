@@ -1,2 +1,1 @@
-# coffe-store
-Coffe Store website
+# coffee-store-website
